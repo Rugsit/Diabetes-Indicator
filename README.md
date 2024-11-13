@@ -5,7 +5,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" href="https://jupyter.org/" style="width: 40px"/>
   <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" href="" style="width: 40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/640px-Scikit_learn_logo_small.svg.png" href="https://huggingface.co/" style="width: 50px; height:30px"/>
-  <img src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" href="https://scikit-learn.org/stable/" style="width: 0px"/>
 </div>
 
 ## Showcase
