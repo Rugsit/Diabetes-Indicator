@@ -1,5 +1,5 @@
 <h1 align="center">Diabetes-Indicator</h1>
-<p align="center" style="font-weight: bold">โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา 01418262 Machine Learning Systems ภาคการศึกษาที่ 1 ปีการศึกษา 2567</p>
+<p align="center" style="font-weight: bold"><br>โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา 01418262 Machine Learning Systems ภาคการศึกษาที่ 1 ปีการศึกษา 2567</br></p>
 <div style="display: flex; justify-content: center; gap:15px ;align-items: center;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/701px-Python-logo-notext.svg.png" href="https://www.python.org/" style="width: 40px"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" href="https://jupyter.org/" style="width: 40px"/>
